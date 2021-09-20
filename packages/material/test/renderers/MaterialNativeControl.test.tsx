@@ -22,11 +22,12 @@
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
   THE SOFTWARE.
 */
+
 import './MatchMediaMock';
 import React from 'react';
 import Enzyme, { mount, ReactWrapper } from 'enzyme';
 import { MaterialNativeControl } from '../../src/controls/MaterialNativeControl';
-import TextField from '@material-ui/core/TextField';
+import { TextField } from '@material-ui/core';
 import Adapter from 'enzyme-adapter-react-16';
 import { ControlElement, ControlProps } from '@jsonforms/core';
 

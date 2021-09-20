@@ -11,7 +11,7 @@ import { ExtendedUnwrapped } from '../src/extended';
 import { materialAutocompleteOneOfEnumControlTester } from '../src/extended/MaterialAutocompleteOneOfEnumControl';
 import { withJsonFormsOneOfEnumProps } from '@jsonforms/react';
 import React from 'react';
-import Typography from '@material-ui/core/Typography';
+import { Typography } from '@material-ui/core';
 const MyAutocompleteControl = (props: ControlProps & OwnPropsOfEnum) => {
   return (
     <ExtendedUnwrapped.MaterialAutocompleteOneOfEnumControl

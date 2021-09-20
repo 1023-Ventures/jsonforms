@@ -25,10 +25,10 @@
 import React, { useState } from 'react';
 import { CellProps, WithClassname } from '@jsonforms/core';
 import { areEqual } from '@jsonforms/react';
-import Input, { InputProps } from '@material-ui/core/Input';
+import { Input, InputProps } from '@material-ui/core';
 import merge from 'lodash/merge';
-import IconButton from '@material-ui/core/IconButton';
-import InputAdornment from '@material-ui/core/InputAdornment';
+import { IconButton } from '@material-ui/core';
+import { InputAdornment } from '@material-ui/core';
 import Close from '@material-ui/icons/Close';
 import { useTheme } from '@material-ui/core/styles';
 import { JsonFormsTheme } from '../util';

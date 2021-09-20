@@ -28,10 +28,10 @@ import {
   createDefaultValue,
   JsonSchema,
 } from '@jsonforms/core';
-import IconButton from '@material-ui/core/IconButton';
+import { IconButton } from '@material-ui/core';
 import { Grid, Hidden, Typography } from '@material-ui/core';
-import TableRow from '@material-ui/core/TableRow';
-import Tooltip from '@material-ui/core/Tooltip';
+import { TableRow } from '@material-ui/core';
+import { Tooltip } from '@material-ui/core';
 import AddIcon from '@material-ui/icons/Add';
 import ValidationIcon from './ValidationIcon';
 import NoBorderTableCell from './NoBorderTableCell';

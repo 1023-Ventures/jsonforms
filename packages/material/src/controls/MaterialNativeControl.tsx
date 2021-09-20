@@ -36,7 +36,7 @@ import {
 } from '@jsonforms/core';
 import { Hidden } from '@material-ui/core';
 import { Control, withJsonFormsControlProps } from '@jsonforms/react';
-import TextField from '@material-ui/core/TextField';
+import { TextField } from '@material-ui/core';
 import merge from 'lodash/merge';
 
 export class MaterialNativeControl extends Control<ControlProps, ControlState> {

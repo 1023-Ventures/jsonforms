@@ -24,9 +24,9 @@
 */
 import React from 'react';
 
-import Badge from '@material-ui/core/Badge';
+import { Badge } from '@material-ui/core';
 import ErrorOutlineIcon from '@material-ui/icons/ErrorOutline';
-import Tooltip from '@material-ui/core/Tooltip';
+import { Tooltip } from '@material-ui/core';
 import {
   StyledComponentProps,
   withStyles,

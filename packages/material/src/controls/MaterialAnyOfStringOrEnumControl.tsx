@@ -36,7 +36,7 @@ import {
 } from '@jsonforms/core';
 import { Control, withJsonFormsControlProps } from '@jsonforms/react';
 import { Input } from '@material-ui/core';
-import { InputBaseComponentProps } from '@material-ui/core/InputBase';
+import { InputBaseComponentProps } from '@material-ui/core';
 import merge from 'lodash/merge';
 import React from 'react';
 import { MaterialInputControl } from './MaterialInputControl';

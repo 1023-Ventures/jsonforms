@@ -2,7 +2,7 @@
   "name": "@jsonforms/react",
   "version": "3.0.0-alpha.1",
   "description": "React module of JSON Forms",
-  "repository": "https://github.com/eclipsesource/jsonforms",
+  "repository": "https://github.com/1023-ventures/paleo-packages.git",
   "bugs": "https://github.com/eclipsesource/jsonforms/issues",
   "homepage": "http://jsonforms.io/",
   "license": "MIT",

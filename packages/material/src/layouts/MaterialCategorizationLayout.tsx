@@ -24,7 +24,7 @@
 */
 import React from 'react';
 import { Hidden, Tab, Tabs } from '@material-ui/core';
-import AppBar from '@material-ui/core/AppBar';
+import { AppBar } from '@material-ui/core';
 import {
   and,
   Categorization,

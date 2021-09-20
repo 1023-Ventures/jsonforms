@@ -23,13 +23,13 @@ import {
   createId,
   removeId
 } from '@jsonforms/core';
-import IconButton from '@material-ui/core/IconButton';
-import Accordion from '@material-ui/core/Accordion';
-import AccordionSummary from '@material-ui/core/AccordionSummary';
-import AccordionDetails from '@material-ui/core/AccordionDetails';
+import { IconButton } from '@material-ui/core';
+import { Accordion } from '@material-ui/core';
+import { AccordionSummary } from '@material-ui/core';
+import { AccordionDetails } from '@material-ui/core';
 import { Grid } from '@material-ui/core';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
-import Avatar from '@material-ui/core/Avatar';
+import { Avatar } from '@material-ui/core';
 import DeleteIcon from '@material-ui/icons/Delete';
 import ArrowUpward from '@material-ui/icons/ArrowUpward';
 import ArrowDownward from '@material-ui/icons/ArrowDownward';

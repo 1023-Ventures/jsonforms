@@ -25,7 +25,7 @@
 import React from 'react';
 import { EnumCellProps, WithClassname } from '@jsonforms/core';
 
-import Select from '@material-ui/core/Select';
+import { Select } from '@material-ui/core';
 import { MenuItem } from '@material-ui/core';
 import { areEqual } from '@jsonforms/react';
 import merge from 'lodash/merge';

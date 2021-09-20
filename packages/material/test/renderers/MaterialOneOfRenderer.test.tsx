@@ -24,7 +24,7 @@
 */
 import './MatchMediaMock';
 import React from 'react';
-import Dialog from '@material-ui/core/Dialog';
+import { Dialog } from '@material-ui/core';
 
 import Enzyme, { mount, ReactWrapper } from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';

@@ -25,7 +25,7 @@
 import React, { ReactNode } from 'react';
 import { EnumCellProps, EnumOption, WithClassname } from '@jsonforms/core';
 
-import Input from '@material-ui/core/Input';
+import { Input } from '@material-ui/core';
 import Autocomplete, { AutocompleteRenderOptionState } from '@material-ui/lab/Autocomplete';
 import { areEqual } from '@jsonforms/react';
 import merge from 'lodash/merge';

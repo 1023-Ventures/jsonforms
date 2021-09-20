@@ -1,7 +1,7 @@
 import { Grid, Hidden, Tooltip } from '@material-ui/core';
-import IconButton from '@material-ui/core/IconButton';
-import Toolbar from '@material-ui/core/Toolbar';
-import Typography from '@material-ui/core/Typography';
+import { IconButton } from '@material-ui/core';
+import { Toolbar } from '@material-ui/core';
+import { Typography } from '@material-ui/core';
 import AddIcon from '@material-ui/icons/Add';
 import React from 'react';
 import ValidationIcon from '../complex/ValidationIcon';
