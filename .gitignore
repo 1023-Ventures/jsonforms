@@ -13,3 +13,4 @@ docs
 
 .coveralls.yml
 packages/example/build
+.npmrc
