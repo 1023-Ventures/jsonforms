@@ -30,8 +30,8 @@ import {
   showAsRequired,
   isDescriptionHidden,
   OwnPropsOfEnum
-} from '@jsonforms/core';
-import { Control } from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-core';
+import { Control } from '@1023-ventures/jsonforms-react';
 import { Radio } from '@material-ui/core';
 import { RadioGroup } from '@material-ui/core';
 import {

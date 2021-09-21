@@ -43,7 +43,7 @@ import {
   UISchemaElement,
   uiTypeIs,
   unregisterRenderer,
-} from '@jsonforms/core';
+} from '@1023-ventures/jsonforms-core';
 import { isEqual } from 'lodash';
 import Enzyme from 'enzyme';
 import { mount, shallow } from 'enzyme';

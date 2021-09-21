@@ -27,8 +27,8 @@ import * as React from 'react';
 import {
   ControlElement,
   NOT_APPLICABLE
-} from '@jsonforms/core';
-import { JsonFormsStateProvider } from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-core';
+import { JsonFormsStateProvider } from '@1023-ventures/jsonforms-react';
 import MaterialDateCell, {
   materialDateCellTester
 } from '../../src/cells/MaterialDateCell';

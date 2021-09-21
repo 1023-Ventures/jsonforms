@@ -28,8 +28,8 @@ import {
   ControlProps,
   ControlState,
   isDescriptionHidden,
-} from '@jsonforms/core';
-import { Control } from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-core';
+import { Control } from '@1023-ventures/jsonforms-react';
 
 import { Hidden, InputLabel } from '@material-ui/core';
 import { FormControl, FormHelperText } from '@material-ui/core';

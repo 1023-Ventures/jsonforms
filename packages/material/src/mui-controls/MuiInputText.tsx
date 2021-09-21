@@ -23,8 +23,8 @@
   THE SOFTWARE.
 */
 import React, { useState } from 'react';
-import { CellProps, WithClassname } from '@jsonforms/core';
-import { areEqual } from '@jsonforms/react';
+import { CellProps, WithClassname } from '@1023-ventures/jsonforms-core';
+import { areEqual } from '@1023-ventures/jsonforms-react';
 import { Input, InputProps } from '@material-ui/core';
 import merge from 'lodash/merge';
 import { IconButton } from '@material-ui/core';

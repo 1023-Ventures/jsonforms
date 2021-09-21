@@ -32,8 +32,8 @@ import {
   rankWith,
   resolveSubSchemas,
   StatePropsOfCombinator
-} from '@jsonforms/core';
-import { JsonFormsDispatch, withJsonFormsAnyOfProps } from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-core';
+import { JsonFormsDispatch, withJsonFormsAnyOfProps } from '@1023-ventures/jsonforms-react';
 import { Hidden, Tab, Tabs } from '@material-ui/core';
 import CombinatorProperties from './CombinatorProperties';
 

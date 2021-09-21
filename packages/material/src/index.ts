@@ -25,7 +25,7 @@
 import {
   JsonFormsCellRendererRegistryEntry,
   JsonFormsRendererRegistryEntry
-} from '@jsonforms/core';
+} from '@1023-ventures/jsonforms-core';
 import {
   materialAllOfControlTester,
   MaterialAllOfRenderer,

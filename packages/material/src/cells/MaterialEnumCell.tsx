@@ -29,8 +29,8 @@ import {
   RankedTester,
   rankWith,
   WithClassname
-} from '@jsonforms/core';
-import { withJsonFormsEnumCellProps } from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-core';
+import { withJsonFormsEnumCellProps } from '@1023-ventures/jsonforms-react';
 import { MuiSelect } from '../mui-controls/MuiSelect';
 
 export const MaterialEnumCell = (props: EnumCellProps & WithClassname) => (

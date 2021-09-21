@@ -32,7 +32,7 @@ import {
   JsonFormsSubStates,
   rendererReducer,
   uischemaRegistryReducer,
-} from '@jsonforms/core';
+} from '@1023-ventures/jsonforms-core';
 import { connect } from 'react-redux';
 import { combineReducers, Reducer } from 'redux';
 import React from 'react';

@@ -32,7 +32,7 @@ import MaterialAutocompleteOneOfEnumControl, {
   MaterialAutocompleteOneOfEnumControl as MaterialAutocompleteOneOfEnumControlUnwrapped
 } from './MaterialAutocompleteOneOfEnumControl';
 
-import { JsonFormsRendererRegistryEntry } from '@jsonforms/core';
+import { JsonFormsRendererRegistryEntry } from '@1023-ventures/jsonforms-core';
 import { materialRenderers } from '../';
 
 /**

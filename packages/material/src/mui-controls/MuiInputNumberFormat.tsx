@@ -23,9 +23,9 @@
   THE SOFTWARE.
 */
 import React from 'react';
-import { CellProps, Formatted, WithClassname } from '@jsonforms/core';
+import { CellProps, Formatted, WithClassname } from '@1023-ventures/jsonforms-core';
 import { Input } from '@material-ui/core';
-import { areEqual } from '@jsonforms/react';
+import { areEqual } from '@1023-ventures/jsonforms-react';
 import merge from 'lodash/merge';
 
 export const MuiInputNumberFormat = React.memo(

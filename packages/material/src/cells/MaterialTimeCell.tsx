@@ -29,8 +29,8 @@ import {
   RankedTester,
   rankWith,
   WithClassname
-} from '@jsonforms/core';
-import { withJsonFormsCellProps } from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-core';
+import { withJsonFormsCellProps } from '@1023-ventures/jsonforms-react';
 import { MuiInputTime } from '../mui-controls/MuiInputTime';
 
 export const MaterialTimeCell = (props: CellProps & WithClassname) => (

@@ -24,8 +24,8 @@
 */
 import React from 'react';
 import _ from 'lodash';
-import { Generate, JsonSchema, Layout, UISchemaElement } from '@jsonforms/core';
-import { JsonFormsDispatch } from '@jsonforms/react';
+import { Generate, JsonSchema, Layout, UISchemaElement } from '@1023-ventures/jsonforms-core';
+import { JsonFormsDispatch } from '@1023-ventures/jsonforms-react';
 
 interface CombinatorPropertiesProps {
   schema: JsonSchema;

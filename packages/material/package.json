@@ -1,5 +1,5 @@
 {
-  "name": "@jsonforms/material-renderers",
+  "name": "@1023-ventures/jsonforms-material-renderers",
   "version": "3.0.0-alpha.1",
   "description": "Material Renderer Set for JSON Forms",
   "repository": "https://github.com/1023-ventures/paleo-packages.git",
@@ -67,8 +67,8 @@
     "dayjs": "1.10.6"
   },
   "peerDependencies": {
-    "@jsonforms/core": "^3.0.0-alpha.0",
-    "@jsonforms/react": "^3.0.0-alpha.0",
+    "@1023-ventures/jsonforms-core": "^3.0.0-alpha.0",
+    "@1023-ventures/jsonforms-react": "^3.0.0-alpha.0",
     "@material-ui/core": "^4.7.0",
     "@material-ui/icons": "^4.5.1",
     "@material-ui/pickers": "^3.3.10"
@@ -77,8 +77,8 @@
     "@material-ui/lab": "^4.0.0-alpha.56"
   },
   "devDependencies": {
-    "@jsonforms/core": "^3.0.0-alpha.1",
-    "@jsonforms/react": "^3.0.0-alpha.1",
+    "@1023-ventures/jsonforms-core": "^3.0.0-alpha.1",
+    "@1023-ventures/jsonforms-react": "^3.0.0-alpha.1",
     "@material-ui/core": "^4.7.0",
     "@material-ui/icons": "^4.5.1",
     "@material-ui/lab": "^4.0.0-alpha.56",

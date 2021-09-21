@@ -28,7 +28,7 @@ import {
   DispatchCell,
   JsonFormsStateContext,
   useJsonForms
-} from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-react';
 import startCase from 'lodash/startCase';
 import range from 'lodash/range';
 import React, { Fragment } from 'react';
@@ -53,7 +53,7 @@ import {
   Resolve,
   JsonFormsRendererRegistryEntry,
   JsonFormsCellRendererRegistryEntry
-} from '@jsonforms/core';
+} from '@1023-ventures/jsonforms-core';
 import { IconButton } from '@material-ui/core';
 import DeleteIcon from '@material-ui/icons/Delete';
 import ArrowDownward from '@material-ui/icons/ArrowDownward';

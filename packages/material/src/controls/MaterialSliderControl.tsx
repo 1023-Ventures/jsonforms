@@ -31,8 +31,8 @@ import {
   isRangeControl,
   RankedTester,
   rankWith
-} from '@jsonforms/core';
-import { Control, withJsonFormsControlProps } from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-core';
+import { Control, withJsonFormsControlProps } from '@1023-ventures/jsonforms-react';
 
 import {
   FormControl,

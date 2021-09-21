@@ -26,7 +26,7 @@ import './MatchMediaMock';
 import * as React from 'react';
 import {
   NOT_APPLICABLE
-} from '@jsonforms/core';
+} from '@1023-ventures/jsonforms-core';
 import '../../src/cells';
 import MaterialLabelRenderer, {
   materialLabelRendererTester
@@ -34,7 +34,7 @@ import MaterialLabelRenderer, {
 import { materialRenderers } from '../../src';
 import Enzyme, { mount, ReactWrapper } from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';
-import { JsonForms, JsonFormsStateProvider } from '@jsonforms/react';
+import { JsonForms, JsonFormsStateProvider } from '@1023-ventures/jsonforms-react';
 import { initCore } from './util';
 
 Enzyme.configure({ adapter: new Adapter() });

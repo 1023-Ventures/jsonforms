@@ -11,9 +11,9 @@ import {
   schemaMatches,
   schemaSubPathMatches,
   uiTypeIs
-} from '@jsonforms/core';
+} from '@1023-ventures/jsonforms-core';
 
-import { withJsonFormsMultiEnumProps } from '@jsonforms/react';
+import { withJsonFormsMultiEnumProps } from '@1023-ventures/jsonforms-react';
 import { MuiCheckbox } from '../mui-controls';
 import {
   FormControl,

@@ -30,8 +30,8 @@ import {
   RankedTester,
   rankWith,
   StatePropsOfControlWithDetail
-} from '@jsonforms/core';
-import { JsonFormsDispatch, withJsonFormsDetailProps } from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-core';
+import { JsonFormsDispatch, withJsonFormsDetailProps } from '@1023-ventures/jsonforms-react';
 import { Hidden } from '@material-ui/core';
 import React, { useMemo } from 'react';
 

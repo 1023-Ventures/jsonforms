@@ -29,13 +29,13 @@ import Enzyme, { mount, ReactWrapper } from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';
 import {
   ControlElement
-} from '@jsonforms/core';
+} from '@1023-ventures/jsonforms-core';
 import {
   MaterialAnyOfRenderer,
   materialCells,
   materialRenderers
 } from '../../src';
-import { JsonForms, JsonFormsStateProvider } from '@jsonforms/react';
+import { JsonForms, JsonFormsStateProvider } from '@1023-ventures/jsonforms-react';
 import { initCore, TestEmitter } from './util';
 
 Enzyme.configure({ adapter: new Adapter() });

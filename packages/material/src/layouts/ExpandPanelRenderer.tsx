@@ -6,7 +6,7 @@ import {
   JsonFormsDispatch,
   JsonFormsStateContext,
   withJsonFormsContext
-} from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-react';
 import {
   composePaths,
   ControlElement,
@@ -22,7 +22,7 @@ import {
   getFirstPrimitiveProp,
   createId,
   removeId
-} from '@jsonforms/core';
+} from '@1023-ventures/jsonforms-core';
 import { IconButton } from '@material-ui/core';
 import { Accordion } from '@material-ui/core';
 import { AccordionSummary } from '@material-ui/core';

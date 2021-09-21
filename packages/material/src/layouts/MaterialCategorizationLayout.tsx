@@ -36,8 +36,8 @@ import {
   Tester,
   UISchemaElement,
   uiTypeIs
-} from '@jsonforms/core';
-import { RendererComponent, withJsonFormsLayoutProps } from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-core';
+import { RendererComponent, withJsonFormsLayoutProps } from '@1023-ventures/jsonforms-react';
 import {
   AjvProps,
   MaterialLayoutRenderer,

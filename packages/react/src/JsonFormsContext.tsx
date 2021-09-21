@@ -70,7 +70,7 @@ import {
   update,
   mapStateToMultiEnumControlProps,
   DispatchPropsOfMultiEnumControl
-} from '@jsonforms/core';
+} from '@1023-ventures/jsonforms-core';
 import React, { ComponentType, Dispatch, ReducerAction, useCallback, useContext, useEffect, useMemo, useReducer, useRef } from 'react';
 
 import get from 'lodash/get';

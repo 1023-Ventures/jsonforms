@@ -27,7 +27,7 @@ import * as React from 'react';
 import {
   ControlElement,
   NOT_APPLICABLE,
-} from '@jsonforms/core';
+} from '@1023-ventures/jsonforms-core';
 import MaterialOneOfRadioGroupControl, {
   materialOneOfRadioGroupControlTester
 } from '../../src/controls/MaterialOneOfRadioGroupControl';
@@ -36,7 +36,7 @@ import Enzyme, { mount, ReactWrapper } from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';
 import {
   JsonFormsStateProvider
-} from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-react';
 import { initCore } from './util';
 Enzyme.configure({ adapter: new Adapter() });
 

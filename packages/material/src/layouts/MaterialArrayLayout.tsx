@@ -29,7 +29,7 @@ import {
   composePaths,
   computeLabel,
   createDefaultValue,
-} from '@jsonforms/core';
+} from '@1023-ventures/jsonforms-core';
 import map from 'lodash/map';
 import { ArrayLayoutToolbar } from './ArrayToolbar';
 import ExpandPanelRenderer from './ExpandPanelRenderer';

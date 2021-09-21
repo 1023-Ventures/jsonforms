@@ -30,13 +30,13 @@ import Adapter from 'enzyme-adapter-react-16';
 import {
   ControlElement,
   JsonSchema
-} from '@jsonforms/core';
+} from '@1023-ventures/jsonforms-core';
 import {
   MaterialAnyOfStringOrEnumControl,
   materialAnyOfStringOrEnumControlTester,
   materialRenderers
 } from '../../src';
-import { JsonForms } from '@jsonforms/react';
+import { JsonForms } from '@1023-ventures/jsonforms-react';
 
 Enzyme.configure({ adapter: new Adapter() });
 

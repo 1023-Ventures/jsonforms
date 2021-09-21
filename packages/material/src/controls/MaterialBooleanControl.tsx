@@ -29,8 +29,8 @@ import {
   RankedTester,
   rankWith,
   ControlProps
-} from '@jsonforms/core';
-import { withJsonFormsControlProps } from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-core';
+import { withJsonFormsControlProps } from '@1023-ventures/jsonforms-react';
 import { FormControlLabel, Hidden } from '@material-ui/core';
 import { MuiCheckbox } from '../mui-controls/MuiCheckbox';
 

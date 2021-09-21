@@ -29,8 +29,8 @@ import {
   RankedTester,
   rankWith,
   uiTypeIs,
-} from '@jsonforms/core';
-import { withJsonFormsLayoutProps } from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-core';
+import { withJsonFormsLayoutProps } from '@1023-ventures/jsonforms-react';
 import {
   MaterialLayoutRenderer,
   MaterialLayoutRendererProps

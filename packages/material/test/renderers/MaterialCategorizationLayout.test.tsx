@@ -31,8 +31,8 @@ import {
   layoutDefaultProps,
   RuleEffect,
   SchemaBasedCondition
-} from '@jsonforms/core';
-import { JsonFormsStateProvider } from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-core';
+import { JsonFormsStateProvider } from '@1023-ventures/jsonforms-react';
 import Enzyme, { mount } from 'enzyme';
 
 import MaterialCategorizationLayoutRenderer, {

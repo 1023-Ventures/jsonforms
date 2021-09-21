@@ -31,8 +31,8 @@ import {
   isDescriptionHidden,
   RankedTester,
   rankWith
-} from '@jsonforms/core';
-import { Control, withJsonFormsControlProps } from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-core';
+import { Control, withJsonFormsControlProps } from '@1023-ventures/jsonforms-react';
 import { FormHelperText, Hidden } from '@material-ui/core';
 import KeyboardArrowLeftIcon from '@material-ui/icons/KeyboardArrowLeft';
 import KeyboardArrowRightIcon from '@material-ui/icons/KeyboardArrowRight';

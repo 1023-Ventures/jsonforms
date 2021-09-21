@@ -33,8 +33,8 @@ import {
   JsonSchema,
   OwnPropsOfRenderer,
   UISchemaElement
-} from '@jsonforms/core';
-import { areEqual, JsonFormsDispatch, useJsonForms } from '@jsonforms/react';
+} from '@1023-ventures/jsonforms-core';
+import { areEqual, JsonFormsDispatch, useJsonForms } from '@1023-ventures/jsonforms-react';
 import { Grid, Hidden } from '@material-ui/core';
 
 export const renderLayoutElements = (
