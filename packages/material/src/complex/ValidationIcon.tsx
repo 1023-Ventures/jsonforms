@@ -33,7 +33,7 @@ import {
   WithStyles,
   createStyles,
   Theme
-} from '@material-ui/core/styles';
+} from '@material-ui/core';
 
 export { StyledComponentProps };
 const styles = createStyles(({ palette }: Theme) => ({

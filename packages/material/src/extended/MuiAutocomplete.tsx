@@ -26,10 +26,10 @@ import React, { ReactNode } from 'react';
 import { EnumCellProps, EnumOption, WithClassname } from '@1023-ventures/jsonforms-core';
 
 import { Input } from '@material-ui/core';
-import Autocomplete, { AutocompleteRenderOptionState } from '@material-ui/lab/Autocomplete';
+import { Autocomplete, AutocompleteRenderOptionState } from '@material-ui/lab';
 import { areEqual } from '@1023-ventures/jsonforms-react';
 import merge from 'lodash/merge';
-import { FilterOptionsState } from '@material-ui/lab/useAutocomplete';
+import { FilterOptionsState } from '@material-ui/lab';
 
 export interface WithOptionLabel {
     getOptionLabel?(option: EnumOption) : string;

@@ -30,7 +30,7 @@ import merge from 'lodash/merge';
 import { IconButton } from '@material-ui/core';
 import { InputAdornment } from '@material-ui/core';
 import Close from '@material-ui/icons/Close';
-import { useTheme } from '@material-ui/core/styles';
+import { useTheme } from '@material-ui/core';
 import { JsonFormsTheme } from '../util';
 import { InputBaseComponentProps } from '@material-ui/core';
 
