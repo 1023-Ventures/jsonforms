@@ -32,6 +32,7 @@
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
   "scripts": {
+    "link": "yarn link",
     "bundle": "webpack --config ./webpack.build.js --env=production --display-error-details",
     "build": "tsc",
     "clean": "rimraf -rf lib coverage dist .nyc_output 2> /dev/null",

@@ -29,6 +29,7 @@
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "scripts": {
+    "link": "yarn link",
     "bundle": "webpack --config ./webpack/webpack.build.js --env=production --display-error-details",
     "build": "tsc",
     "dev": "webpack --config webpack/webpack.dev.js && webpack-dev-server --config webpack/webpack.dev.js --env=dev --inline",

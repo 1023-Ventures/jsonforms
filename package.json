@@ -25,7 +25,7 @@
     "test": "lerna run test",
     "test-cov": "lerna run test-cov",
     "lint": "tslint 'packages/**/*.{ts,tsx}' -c ./tslint.json",
-    "link": "lerna exec yarn link"
+    "link-all": "lerna run link"
   },
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "0.1.3",
