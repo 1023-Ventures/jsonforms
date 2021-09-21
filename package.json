@@ -1,5 +1,18 @@
 {
   "name": "jsonforms-monorepo",
+  "private": true,
+  "workspaces": {
+    "packages": [
+        "packages/*"
+    ],
+    "nohoist": [
+      "core-js",
+      "vue",
+      "rollup-plugin-vue",
+      "@vue/test-utils",
+      "@vue/composition-api"
+    ]
+},
   "scripts": {
     "lerna": "lerna",
     "preparePublish": "git clean -dfx && npm ci && npm run init && npm run clean && npm run build && npm run bundle && npm run test",
@@ -11,7 +24,8 @@
     "clean": "lerna run clean",
     "test": "lerna run test",
     "test-cov": "lerna run test-cov",
-    "lint": "tslint 'packages/**/*.{ts,tsx}' -c ./tslint.json"
+    "lint": "tslint 'packages/**/*.{ts,tsx}' -c ./tslint.json",
+    "link": "lerna exec yarn link"
   },
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "0.1.3",
