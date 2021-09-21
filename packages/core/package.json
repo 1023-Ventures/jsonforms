@@ -1,6 +1,6 @@
 {
   "name": "@1023-ventures/jsonforms-core",
-  "version": "3.0.0-alpha.1",
+  "version": "3.0.1-alpha.0",
   "description": "Core module of JSON Forms",
   "repository": "https://github.com/1023-ventures/paleo-packages.git",
   "bugs": "https://github.com/eclipsesource/jsonforms/issues",

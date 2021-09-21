@@ -1,6 +1,6 @@
 {
   "name": "@1023-ventures/jsonforms-react",
-  "version": "3.0.0-alpha.1",
+  "version": "3.0.1-alpha.0",
   "description": "React module of JSON Forms",
   "repository": "https://github.com/1023-ventures/paleo-packages.git",
   "bugs": "https://github.com/eclipsesource/jsonforms/issues",
@@ -83,7 +83,7 @@
     "react-redux": "^7.1.3"
   },
   "devDependencies": {
-    "@1023-ventures/jsonforms-core": "^3.0.0-alpha.1",
+    "@1023-ventures/jsonforms-core": "^3.0.1-alpha.0",
     "@types/enzyme": "^3.10.3",
     "@types/enzyme-adapter-react-16": "^1.0.5",
     "@types/object-hash": "^1.3.0",
